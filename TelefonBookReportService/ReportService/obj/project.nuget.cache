@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "Tv69de2JNuPUq8ei84h/1bxNz0/qrXpp6WfuldQMbfxOs4VBF/27zF6v6e25qi8wj9KD2LQoBqswAm+oeC7oyw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Batuh\\source\\repos\\TelefonBookReportService\\ReportService\\ReportService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Batuh\\.nuget\\packages\\confluent.kafka\\1.5.3\\confluent.kafka.1.5.3.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\csvexport\\1.0.1\\csvexport.1.0.1.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\csvhelper\\24.0.1\\csvhelper.24.0.1.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\dnsclient\\1.3.1\\dnsclient.1.3.1.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\filehelpers\\3.4.2\\filehelpers.3.4.2.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\librdkafka.redist\\1.5.3\\librdkafka.redist.1.5.3.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\microsoft.netcore.platforms\\2.1.2\\microsoft.netcore.platforms.2.1.2.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\mongodb.bson\\2.11.6\\mongodb.bson.2.11.6.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\mongodb.driver\\2.11.6\\mongodb.driver.2.11.6.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\mongodb.driver.core\\2.11.6\\mongodb.driver.core.2.11.6.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\mongodb.libmongocrypt\\1.0.0\\mongodb.libmongocrypt.1.0.0.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\sharpcompress\\0.23.0\\sharpcompress.0.23.0.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Batuh\\.nuget\\packages\\system.text.encoding.codepages\\4.5.1\\system.text.encoding.codepages.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
